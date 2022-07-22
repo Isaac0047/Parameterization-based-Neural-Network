@@ -3,6 +3,7 @@
 Physics-Guided Deep Learning Framework for Predicting Nonlinear Mechanical Response of Syntactic Foam Composites and Stress Evolution Prediction
 
 Haotian Feng, Pavana Prabhakar
+
 University of Wisconsin - Madison
 
 
