@@ -1,6 +1,6 @@
 # Physics-Guided-NN-For-Syntactic-Foam-Stress-Strain-Analysis
 
-Physics-Guided Deep Learning Framework for Predicting Nonlinear Mechanical Response of Syntactic Foam Composites and Stress Evolution Prediction
+Parameterization-based Deep Learning Framework for Predicting Nonlinear Mechanical Response of Syntactic Foam Composites and Stress Evolution Prediction
 
 Haotian Feng, Pavana Prabhakar
 
