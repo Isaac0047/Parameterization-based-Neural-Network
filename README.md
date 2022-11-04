@@ -7,4 +7,4 @@ Haotian Feng, Pavana Prabhakar
 University of Wisconsin - Madison
 
 
-This repository includes the code and data for implementing the PGNN
+This repository includes the code and data for implementing the PBNN
