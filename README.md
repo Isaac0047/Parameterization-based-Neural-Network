@@ -1,6 +1,6 @@
 # Parameterization-Based-NN-For-Syntactic-Foam-Stress-Strain-Analysis
 
-Parameterization-based Deep Learning Framework for Predicting Nonlinear Mechanical Response of Syntactic Foam Composites and Stress Evolution Prediction
+Parameterization-Based-NN-For-Syntactic-Foam-Stress-Strain-Analysis
 
 Haotian Feng, Pavana Prabhakar
 
