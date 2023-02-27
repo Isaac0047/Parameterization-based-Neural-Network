@@ -7,6 +7,11 @@ This repository includes the code and data for implementing the PBNN. [The paper
 ## Graphical Abstract
 <img width="1149" alt="pbnn_new" src="https://user-images.githubusercontent.com/62448186/221620155-5cdc0d35-d8ad-4952-a75c-75f34b580f74.png">
 
+## Implementation
+In this repository, the PBNN framework is implemented by Tensorflow.
+PBNN contains two modules: Feature Extraction Module (with idea of self-supervised learning) and Curve Prediction Module. For Curve Prediction Module, we implement two subframeworks: Cubic Function Representation and Ogden Function Representation. The only difference is that Ogden Function uses dynamic training process. 
+
+## Citation
 To cite our paper, please use: 
 
 `@article{feng2022parameterization,
