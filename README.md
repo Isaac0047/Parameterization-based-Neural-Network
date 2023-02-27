@@ -1,11 +1,13 @@
 # Parameterization-Based-NN-For-Nonlinear-Syntactic-Foam-Stress-Strain-Prediction
 
-Haotian Feng, Pavana Prabhakar
+10/31/2022 By Haotian Feng and Pavana Prabhakar, University of Wisconsin - Madison
 
-University of Wisconsin - Madison
+This repository includes the code and data for implementing the PBNN. [The paper can be find in thislink](https://arxiv.org/abs/2212.12840). 
 
+## Graphical Abstract
+<img width="1149" alt="pbnn_new" src="https://user-images.githubusercontent.com/62448186/221620155-5cdc0d35-d8ad-4952-a75c-75f34b580f74.png">
 
-This repository includes the code and data for implementing the PBNN. [The paper can be find in thislink](https://arxiv.org/abs/2212.12840). To cite our paper, please use: 
+To cite our paper, please use: 
 
 `@article{feng2022parameterization,
   title={Parameterization-based Neural Network: Predicting Non-linear Stress-Strain Response of Composites},
