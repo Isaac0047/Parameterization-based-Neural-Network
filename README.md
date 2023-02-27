@@ -1,6 +1,4 @@
-# Parameterization-Based-NN-For-Syntactic-Foam-Stress-Strain-Analysis
-
-Parameterization-Based-NN-For-Syntactic-Foam-Stress-Strain-Analysis
+# Parameterization-Based-NN-For-Nonlinear-Syntactic-Foam-Stress-Strain-Prediction
 
 Haotian Feng, Pavana Prabhakar
 
