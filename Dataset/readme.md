@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1TTDKi-eFebW6qDqq_FTcb1iCx1ietCo1?usp=sha
 
 'Test_set_XX_2000.npy' are the test samples used to evaluate the Feature_Extraction_Module.
                         
-**Inside this folder: **
+**Inside this folder:**
 
 'conv_model_128_good_new.h5' is the trained Feature Extraction Neural Network
 
