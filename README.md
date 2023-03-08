@@ -14,9 +14,9 @@ PBNN contains two modules: Feature Extraction Module (with idea of self-supervis
 ## Folders
 <ins>'Dataset'</ins> folder includes the dataset used for doing the analysis.
 
-'Feature-Extraction-Size_Curve' folder includes the code for implementing Feature Extraction Module and testing the performance on different training sample sizes.
+<ins>'Feature-Extraction-Size_Curve'</ins> folder includes the code for implementing Feature Extraction Module and testing the performance on different training sample sizes.
 
-'PBNN_Implementation' folder includes the inplementation of PBNN when the curve is represented with Cubic Function or Ogden Function.
+<ins>'PBNN_Implementation'</ins> folder includes the inplementation of PBNN when the curve is represented with Cubic Function or Ogden Function.
 
 
 ## Citation
